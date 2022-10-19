@@ -1,0 +1,96 @@
+{
+  "@@locale": "en",
+  "loading": "Loading",
+  "pleaseEnterYourEmail": "Please Enter Your Email",
+  "iHaveAnAccount": "I have an account",
+  "errorHappened": "Error Happened",
+  "errorLoadingData": "Error Loading Data",
+  "emailAddressIsRequired": "Email Address is Required",
+  "pleaseInputPhoneNumber": "Please input phone number",
+  "confirm": "Confirm",
+  "phoneNumber": "Phone Number",
+  "language": "Language",
+  "signOut": "Sign out",
+  "login": "Login",
+  "settings": "Settings",
+  "changeLanguage": "Change Language",
+
+  "changePass": "Change password",
+  "oldPass": "Old password",
+  "wrongPass": "incorrect old password",
+  "companyInfo": "Company info",
+  "networkError": "networkError",
+  "warning": "Warning",
+  "newPassword": "new password",
+  "password": "Password",
+  "invalidCredentials": "username or password is wrong",
+  "username": "username",
+  "pleaseCompleteField": "please Complete Field",
+  "passwordIsTooShort": "password Is Too Short",
+  "refresh": "refresh",
+
+
+  "occasions": "Occasions",
+  "friends" : "Friends",
+
+  "darkMode": "Dark mode",
+
+  "profile": "Profile",
+  "address": "Address",
+  "paymentMethod": "Payment method",
+  "terms": "Terms",
+  "contactUs": "Contact us",
+  "support": "Support",
+  "orders": "Orders",
+  "notifications": "Notifications",
+
+  "addToCart": "Add to cart",
+  "minQuantity": "Minimum Quantity",
+  "maxQuantity": "Maximum Quantity",
+  "Item": "Item",
+  "sar": " SAR ",
+  "increment": "Increment",
+  "changeQuantity": "Change quantity",
+  "friendName" : "Friend name",
+  "updateFriend": "Update friend",
+  "createFriend": "Create friend",
+  "selectFromContact": "Select from contacts",
+
+
+  "occasionTitle": "Occasion title",
+  "timeOfEvent": "Time of event",
+  "createOccasion": "Create occasion",
+  "updateOccasion" : "Update Occasion",
+  "whatOrder": "What's your order ?",
+  "whatOrderYouWant": "What do you want to order ?",
+
+  "updateProfile": "Update profile",
+  "updateSuccessfully": "Update successfully",
+
+  "createCredit": "Create Credit",
+  "credits" : "Credits",
+
+  "titleAddress": "Address title",
+  "city": "City",
+  "country": "Country",
+  "buildingName": "Building name",
+  "street": "Street",
+  "floorNumber": "Floor number",
+  "createAddress": "Create address",
+  "updateAddress": "Update address",
+
+  "totalPrice": "Total price",
+  "totalAmount": "Total amount",
+  "totalPriceWithoutDabb": "Total Price Without Dabbrnie",
+  "dabbrnie": "Dabbrnie",
+  "checkOut": "CheckOut",
+  "totalTax": "Total tax",
+  "tax": "Tax",
+  "setupItem": "Setup item",
+  "numberOfGuest": "Number of guest",
+
+  "deliveringTo": "Delivering to",
+  "select": "Select"
+
+
+}
